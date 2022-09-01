@@ -1,5 +1,5 @@
 PImage pict;
-
+//左クリックでジャンプします
 Pipe[] pipes = new Pipe[1000];
 Cloud[] cloud = new Cloud[1000];
 Character character = new Character();
